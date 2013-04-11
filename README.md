@@ -29,7 +29,7 @@ Installation
 Clone the repository:
 
 ```bash
-$ git clone https://github.com/gitlabhq/gitlab-vagrant-vm
+$ git clone https://github.com/ovargas27/gitlab-vagrant-vm
 $ cd gitlab-vagrant-vm
 ```
 
